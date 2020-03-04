@@ -6,3 +6,7 @@ The main task of platform was to automate and facilitate creation of graphical a
 *	Graphics and statistic charts created with ChartJS
 *	The given data was in different file formats such as .dbf. The migration of data from .dbf
 to Mysql has been automated with python script in back and through the dashboard.
+
+
+![example_ss](https://github.com/ogtayhuseynov0/hesabat/blob/master/public/ss.png "Example ScreeShot")
+
