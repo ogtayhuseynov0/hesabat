@@ -8,5 +8,5 @@ The main task of platform was to automate and facilitate creation of graphical a
 to Mysql has been automated with python script in back and through the dashboard.
 
 
-![example_ss](https://github.com/ogtayhuseynov0/hesabat/blob/master/public/ss.png)
+![example_ss](https://raw.githubusercontent.com/ogtayhuseynov0/hesabat/master/public/ss.png)
 
